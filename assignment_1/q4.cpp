@@ -8,7 +8,7 @@ int main(){
     double spfWeightWater = 62.4; //declares the variable for specific weight of water.
     double weightSphere; //delcares the variable for weight of sphere.
     double radiusSphere; //declares the variable for radius of sphere.
-    const double pi = 3.14159; //declares the constance for pi.
+    const double pi = 3.14159; //declares the constant for pi.
     double volumeSphere; //declares the variable for volume of sphere.
     double bForce; //declares the variable for bouyancy force.
     
