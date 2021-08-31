@@ -1,13 +1,15 @@
 #include <iostream>
+#include <math.h>
 
-using namespace std; 
+using namespace std;
 
 int main(){
 
-    int first = 5; 
-    double second = 7; 
+    double first = 1.5; //declare fisrt number as a double.
+    int second = 3; //declare second number as an int.
 
-    cout << "first is: " << first << " " << "second is: " << second << endl ; 
+    cout << "first is " << first; //output value of first.
+    cout << " second = " << second << endl; //output of value second then ends line.
 
-    return 0; 
+    return 0;
 }
